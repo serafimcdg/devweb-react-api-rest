@@ -1,0 +1,45 @@
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+
+.submit-form {
+  max-width: 400px;
+  margin: auto;
+}
+
+.edit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+button {
+  margin: 0 7px;
+}
+.navbar-expand-lg .navbar-nav {
+  flex-direction: column-reverse;
+}
+.bg-secondary {
+  background-color: mediumaquamarine !important;
+}
+.navbar-dark .navbar-brand {
+  color: black !important;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: rgb(0 0 0 / 55%);
+}
+.mt-3 {
+  justify-content: center !important;
+  align-items: center;
+  display: flex !important;
+  text-align: center !important;
+
+}
+
+.col-md-6 h4 {
+  color: black;
+}
+.col-md-6 {
+  text-align: center!important;
+}
